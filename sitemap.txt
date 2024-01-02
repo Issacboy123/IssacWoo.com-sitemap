@@ -1,6 +1,7 @@
 https://www.issacwoo.com
 https://www.issacwoo.com/home
 https://www.issacwoo.com/blog
+https://www.issacwoo.com/blog/2023-blogs
 https://www.issacwoo.com/blog/2023-january-blogs
 https://www.issacwoo.com/blog/2023-january-blogs/1302023
 https://www.issacwoo.com/blog/2023-january-blogs/1312023
@@ -343,6 +344,9 @@ https://www.issacwoo.com/blog/2023-december-blogs/12272023
 https://www.issacwoo.com/blog/2023-december-blogs/12282023
 https://www.issacwoo.com/blog/2023-december-blogs/12292023
 https://www.issacwoo.com/blog/2023-december-blogs/12302023
+https://www.issacwoo.com/blog/2023-december-blogs/12312023
+https://www.issacwoo.com/blog/2024-january-blogs
+https://www.issacwoo.com/blog/2024-january-blogs/112024
 https://www.issacwoo.com/games
 https://www.issacwoo.com/about-me
 https://www.issacwoo.com/contact
